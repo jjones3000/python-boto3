@@ -1,0 +1,24 @@
+#Time Period,Linked Account,Service,Amount,Unit,Estimated,
+05/2021, 007849015507, AWS Config, 0.103, USD, True
+05/2021, 007849015507, AWS Cost Explorer, 0.64, USD, True
+05/2021, 007849015507, AWS Glue, 0, USD, True
+05/2021, 007849015507, AWS Key Management Service, 0, USD, True
+05/2021, 007849015507, AWS Lambda, 0, USD, True
+05/2021, 007849015507, AWS Secrets Manager, 0, USD, True
+05/2021, 007849015507, AWS Security Hub, 0.468, USD, True
+05/2021, 007849015507, Amazon DynamoDB, 0, USD, True
+05/2021, 007849015507, EC2 - Other, 2.9781508075, USD, True
+05/2021, 007849015507, Amazon Elastic Compute Cloud - Compute, 0.5020673372, USD, True
+05/2021, 007849015507, Amazon Elastic File System, 0.0000014352, USD, True
+05/2021, 007849015507, Amazon Relational Database Service, 13.3635931139, USD, True
+05/2021, 007849015507, Amazon Route 53, 1.0004236, USD, True
+05/2021, 007849015507, Amazon Simple Notification Service, 0, USD, True
+05/2021, 007849015507, Amazon Simple Queue Service, 0, USD, True
+05/2021, 007849015507, Amazon Simple Storage Service, 0.0021041006, USD, True
+05/2021, 007849015507, AmazonCloudWatch, 0, USD, True
+05/2021, 007849015507, Tax, 1.25, USD, True
+05/2021, 509446820084, EC2 - Other, 0.3354959109, USD, True
+05/2021, 509446820084, Amazon Elastic Compute Cloud - Compute, 3.6192, USD, True
+05/2021, 509446820084, Amazon Simple Storage Service, 0.0000002197, USD, True
+05/2021, 509446820084, Tax, 0.27, USD, True
+Total Cost: 24.532036525,,,,,

@@ -31,4 +31,15 @@ def cutoff_date(rsrc_creation, days_since):
   
 cod = cutoff_date('2021-03-15',30)
 
+<<<<<<< HEAD
+
+
+###========== ITERATE THROUGH LIST OF AWS ACCOUNT NUMBERS
+
+# acct_nos = ['007849015507','007849015508']
+
+# for no in acct_nos:
+    # print(no)  
+=======
   
+>>>>>>> 1ebd3473117509d689c758c212efdb0043f2fd30
