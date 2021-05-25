@@ -11,9 +11,10 @@
 7. On the function screen, double click on the lambda_function.py file in the left pane to show a basic function.
 
 ## Configure Lambda Function
-
-import json
+1. You should see the code below:
 ```
+import json
+
 def lambda_handler(event, context):
     # TODO implement
     return {
@@ -21,3 +22,15 @@ def lambda_handler(event, context):
         'body': json.dumps('Hello from Lambda!')
     }
 ```
+2. Modify the above code to remove the body of the lamda_handler function. When finished, you should have the following.
+
+```
+import json
+
+def lambda_handler(event, context):
+
+```
+
+3. Paste any imports you have just beneath the *import json* line. 
+4. Paste any code you have beneath the *def lambda_handler(event, context):* line
+
