@@ -1,7 +1,7 @@
 #!/bin/bash
 import boto3
 import json
-from bson import json_util
+#from bson import json_util
 import os
 import sys
 import csv
@@ -19,17 +19,36 @@ from json import JSONEncoder
 
 
 # describe_spot_price_history()
+ec2_client = boto3.client('ec2')
+reg_arr = []
+regions = [region['RegionName'] for region in ec2_client.describe_regions()['Regions']]
+f = open("about_ec2s.txt", "a")
+for region in regions:
+  reg_arr.append(region)
+
+for region in reg_arr:
+
+  ec2c = boto3.client('ec2', region_name=region)
+  ec2s = ec2c.describe_instances()
+  pprint("region: " + region)
+  pprint("=====================")
+  try:
+    pprint(ec2s['Reservations'][0]['Instances'][0]['Architecture'])
+  except:
+    continue
+   
+  # for ec2 in ec2s:
+      # #f.write(ec2)
+      # pprint(ec2[0]['ResponseMetaata'])
+  
+  
 
 
-
-ec2c = boto3.client('ec2')
-
+f.close()
 
 
-
-
-# ec2s = ec2c.describe_instances()
-# pprint(ec2s)
+#ec2s = ec2c.describe_instances()
+#pprint(ec2s)
 
 
 

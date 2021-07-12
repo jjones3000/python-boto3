@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 import json
 import boto3
@@ -17,4 +18,4 @@ for page in iterator:
 
 cw_client = boto3.client('cloudwatch')
 lgs = cw_client.describe_log_groups()
-print(lgs
+print(lgs)

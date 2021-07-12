@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import boto3
 import json
 from bson import json_util
