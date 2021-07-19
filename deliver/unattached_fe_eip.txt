@@ -1,0 +1,276 @@
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+7-13-2021
+unattached ip address: 34.202.105.133
+Tags: 
+Resource has no tags 
+Resource has no tags 
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+7-13-2021
+unattached ip address: 18.118.64.91
+Tags: 
+Resource has no tags 
+Resource has no tags 
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+7-13-2021
+unattached ip address: 18.220.187.180
+Tags: 
+Resource has no tags 
+Resource has no tags 
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+7-13-2021
+unattached ip address: 3.131.236.128
+Tags: 
+Resource has no tags 
+Resource has no tags 
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+7-13-2021
+unattached ip address: 3.133.36.13
+Tags: 
+Resource has no tags 
+Resource has no tags 
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+7-13-2021
+unattached ip address: 3.17.213.11
+Tags: 
+Resource has no tags 
+Resource has no tags 
+7-13-2021
+unattached ip address: 34.202.105.133
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 18.118.64.91
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 18.220.187.180
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.131.236.128
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.133.36.13
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.17.213.11
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 34.202.105.133
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 18.118.64.91
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 18.220.187.180
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.131.236.128
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.133.36.13
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.17.213.11
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 34.202.105.133
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 18.118.64.91
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 18.220.187.180
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.131.236.128
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.133.36.13
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+
+7-13-2021
+unattached ip address: 3.17.213.11
+ARN: NA 
+Resource id: NA 
+Resource Name: NA 
+Account Name: NA 
+Account no: 725837026074
+Tags: 
+Resource has no tags 
+
+Resource has no tags 
+

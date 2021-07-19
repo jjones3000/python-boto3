@@ -1,0 +1,5 @@
+
+testing_dynamodb6-15-2021Read Capacity Units: 5Write Capacity Units: 5Table Size (bytes): 0
+testing_dynamodb6-15-2021Read Capacity Units: 5Write Capacity Units: 5Table Size (bytes): 0
+testing_dynamodb6-15-2021Read Capacity Units: 5Write Capacity Units: 5Table Size (bytes): 00
+testing_dynamodb

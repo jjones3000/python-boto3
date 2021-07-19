@@ -28,7 +28,7 @@ rdscluster = rds.describe_db_clusters()
 rdssnaps = rds.describe_db_snapshots()
 
 
-#pprint(rdssnaps)
+pprint(rdssnaps)
 
 # Accessing AWS Accounts with Boto3
 # https://boto3.amazonaws.com/v1/documentation/api/latest/guide/credentials.html

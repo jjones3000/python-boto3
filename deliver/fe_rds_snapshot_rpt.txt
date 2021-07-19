@@ -1,0 +1,894 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-1-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-1-final-snapshot
+resource id: db-AJFYORS6OFMMLQK5FWR5VQC5YY
+Created: 06-07-2021 (41 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: database-2-final-snapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:database-2-final-snapshot
+resource id: db-T5CLW6E2TZGW2PNY4LYMOKSF5U
+Created: 06-11-2021 (37 days ago) 
+Tags:
+        key tag
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: dbdbdb
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:dbdbdb
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: manualsnapshot
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:manualsnapshot
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-1-2021-07-18-04-24
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-1-2021-07-18-04-24
+resource id: db-GWSBHVSKJDAO3KQFQRNLMVM2J4
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+==================================================   < 8wks:   KEEP  ================================================================Account no.: 725837026074
+Name: rds:database-2-2021-07-18-05-04
+arn: arn:aws:rds:us-east-2:725837026074:snapshot:rds:database-2-2021-07-18-05-04
+resource id: db-3EVYAXG4VUKSCNANYSIX7XNXNA
+Created: 07-18-2021 (0 days ago) 
+Tags:
+
+
