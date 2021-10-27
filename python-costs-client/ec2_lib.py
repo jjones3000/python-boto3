@@ -24,4 +24,10 @@ from json import JSONEncoder
 #region_name="us-east-1"
 ec2 = boto3.client('ec2')
 response = ec2.describe_instances()
-pprint(response)												
+for inst in response['Reservations']:
+    #print(inst['Instances'])
+    instanceid = inst['Instances'][0]['InstanceId']
+    instancetype = inst['Instances'][0]['InstanceType']
+    pprint(instanceid + " - " + instancetype)
+    
+												

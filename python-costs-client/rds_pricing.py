@@ -1,6 +1,6 @@
 import json
 import boto3
-import pprint
+from pprint import pprint
 import re
 
 # https://www.sentiatechblog.com/using-the-ec2-price-list-api
@@ -8,6 +8,7 @@ import re
 pricing_client = boto3.client('pricing', region_name='us-east-1')
 
 def get_products(region):
+    account_no = boto3.client('sts').get_caller_identity().get('Account')
     paginator = pricing_client.get_paginator('get_products')
 
     response_iterator = paginator.paginate(
@@ -32,23 +33,32 @@ def get_products(region):
     products = []
     for response in response_iterator:
         for priceItem in response["PriceList"]:
+            
             priceItemJson = json.loads(priceItem)
             products.append(priceItemJson)
-            print("++++++")
-            print(priceItemJson['product']['attributes']['instanceType'])
             
+            print("++++++")
+            print(account_no)
+            print(priceItemJson['product']['attributes']['instanceType'])
+            print(priceItemJson['product']['attributes']['location'])
+            print(priceItemJson['product']['attributes']['memory'])
+            print("******")
+            pprint(priceItemJson)
             items = priceItemJson['terms']['OnDemand']
             #print(priceItemJson['terms']['OnDemand'])
             for item in items:
                 y = items[item]['priceDimensions']
                 #print(y)
                 for x in y:
-                    print(y[x])
+                    print(y[x]['pricePerUnit']['USD'])
+                    #print(y[x])
                 #print(items[item])
 
             
             print("------")
             print("")
+           
+    pprint(priceItemJson)
     #print(products)
 
 if __name__ == '__main__':
